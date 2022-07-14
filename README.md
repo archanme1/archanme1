@@ -1,23 +1,24 @@
-Hello World ! 👋
+### Hi there 👋, my name is Archan Bhatta
+#### Currently based in Mississauga, Ontario. I am working in React Js and Next Js. Currently I am learning React Native. I am exited to make leap and continue refining my skills.
+![Currently based in Mississauga, Ontario. I am working in React Js and Next Js. Currently I am learning React Native. I am exited to make leap and continue refining my skills.](https://i.redd.it/n93k6oc2wab71.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: REACT / JS / HTML / CSS / NEXT / NODE / EXPRESS / MONGODB / MYSQL / REACTNATIVE
+
+- 🔭 I’m currently working on REACT JS 
+- 🌱 I’m currently learning REACT NATIVE 
+- 🤔 I’m looking for help with INTERN/JOBS 
+- ⚡ Fun fact: LOVE PLAYING OUTDOOR SPORTS 
 
 
--🔭 I’m currently working on ... React Js
--🌱 I’m currently learning ... React Native
--👯 I’m looking to collaborate on ... MERN Stack, Next Js & React Native.
--🤔 I’m looking for help with ... Intern/Jobs.
--💬 Ask me about ... Web Tech
--📫 How to reach me: ... [LinkedIn](linkedin.com/in/archan-bhatta-249275170)
--😄 Pronouns: ... He/Him
--⚡ Fun fact: ... Love playing outdoor sports
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/archanme1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/archan-bhatta-249275170/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/archanme1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/archanme1//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/archanme1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16323544/archan-bhatta)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/archanme1)](https://github.com/anuraghazra/github-readme-stats)
 
-⚙️ My skills include:
-FrontEnd: HTML / CSS / JS / React / Next
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/archanme1&show_icons=true)  
 
-BackEnd: Node, Expresss
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/archanme1)  
 
-Databases: MySQL, MongoDB
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/archanme1)  
 
-Mobile App: React Native
-
-Operating System: Windows, Mac
