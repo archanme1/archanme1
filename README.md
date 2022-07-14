@@ -2,8 +2,6 @@
 #### Currently based in Mississauga, Ontario. I am working in React Js and Next Js. Currently I am learning React Native. I am exited to make leap and continue refining my skills.
 ![Currently based in Mississauga, Ontario. I am working in React Js and Next Js. Currently I am learning React Native. I am exited to make leap and continue refining my skills.](https://i.redd.it/n93k6oc2wab71.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 Skills: REACT / JS / HTML / CSS / NEXT / NODE / EXPRESS / MONGODB / MYSQL / REACTNATIVE
 
 - 🔭 I’m currently working on REACT JS 
