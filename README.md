@@ -3,7 +3,8 @@
 
 Skills: REACT / JS / HTML / CSS / NEXT / NODE / EXPRESS / MONGODB / MYSQL / REACTNATIVE
 
-
+![Archan's github stats](https://github-readme-stats.vercel.app/api?username=archanme1&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archanme1&layout=compact)](https://github.com/archanme1/github-readme-stats)
 
 - 🔭 I’m currently working on REACT JS 
 - 🌱 I’m currently learning REACT NATIVE 
