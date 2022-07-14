@@ -1,8 +1,11 @@
 ### Hi there 👋, my name is Archan Bhatta
 #### Currently based in Mississauga, Ontario. I am working in React Js and Next Js. Currently I am learning React Native. I am exited to make leap and continue refining my skills.
-![Currently based in Mississauga, Ontario. I am working in React Js and Next Js. Currently I am learning React Native. I am exited to make leap and continue refining my skills.](https://i.redd.it/n93k6oc2wab71.png)
 
 Skills: REACT / JS / HTML / CSS / NEXT / NODE / EXPRESS / MONGODB / MYSQL / REACTNATIVE
+
+![Currently based in Mississauga, Ontario. I am working in React Js and Next Js. Currently I am learning React Native. I am exited to make leap and continue refining my skills.](https://i.redd.it/n93k6oc2wab71.png)
+
+
 
 - 🔭 I’m currently working on REACT JS 
 - 🌱 I’m currently learning REACT NATIVE 
