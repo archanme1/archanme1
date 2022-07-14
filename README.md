@@ -1,16 +1,25 @@
-### Hi there 👋
+Hello World ! 👋
 
 <!--
-**archanme1/archanme1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ... React Js
+- 🌱 I’m currently learning ... React Native
+- 👯 I’m looking to collaborate on ... MERN Stack, Next Js & React Native.
+- 🤔 I’m looking for help with ... Intern/Jobs.
+- 💬 Ask me about ... Web Tech
+- 📫 How to reach me: ... [LinkedIn](linkedin.com/in/archan-bhatta-249275170)
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... Love playing outdoor sports
+-->
 
-Here are some ideas to get you started:
+<!-- 
+⚙️ My skills include:
+FrontEnd: HTML / CSS / JS / React / Next
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+BackEnd: Node, Expresss
+
+Databases: MySQL, MongoDB
+
+Mobile App: React Native
+
+Operating System: Windows, Mac
 -->
