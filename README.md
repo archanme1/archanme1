@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Archan Bhatta
 #### Currently based in Mississauga, Ontario. I am exited to make leap and continue refining my skills.
 
-Skills: REACT / JS / HTML / CSS / NEXT / NODE / EXPRESS / MONGODB / MYSQL / REACTNATIVE
+Skills: HTML / CSS / JS / REACT / NEXT / STRAPI / NODE / EXPRESS / MONGODB / MYSQL / REACTNATIVE
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archanme1&layout=compact)](https://github.com/archanme1/github-readme-stats)
@@ -10,7 +10,7 @@ Skills: REACT / JS / HTML / CSS / NEXT / NODE / EXPRESS / MONGODB / MYSQL / REAC
 - 🌱 I’m currently learning REACT NATIVE 
 - 🤔 I’m looking for help with INTERN/JOBS
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Be confident in Full Stack and Learn more about web3 
+- 🥅 2023 Goals: Be confident in Full Stack and Learn more about web3 
 - ⚡ Fun fact: LOVE PLAYING OUTDOOR SPORTS 
 
 ![Archan's github stats](https://github-readme-stats.vercel.app/api?username=archanme1&show_icons=true&theme=radical)
