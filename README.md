@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Archan Bhatta
-#### Currently based in Mississauga, Ontario. I am exited to make leap and continue refining my skills.
+#### Currently residing in GTA, Ontario. I am exited to make leap and continue refining my skills.
 
 Skills: HTML / CSS / JS / REACT / NEXT / STRAPI / NODE / EXPRESS / MONGODB / MYSQL / REACTNATIVE
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archanme1&layout=compact)](https://github.com/archanme1/github-readme-stats)
 
