@@ -1,12 +1,11 @@
-### Hi there 👋, my name is Archan Bhatta
-#### Currently residing in GTA, Ontario. I am exited to make leap and continue refining my skills.
+## Hi there 👋
+### Currently residing in GTA, Ontario. I am excited to make a leap and continue refining my skills.
 
-Skills: HTML / CSS / JS / REACT / NEXT / STRAPI / NODE / EXPRESS / MONGODB / MYSQL / REACTNATIVE
+<!-- Skills: HTML / CSS / JS / REACT JS / NEXT JS/ NODE / EXPRESS / MongoDB / MYSQL / REACT NATIVE -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archanme1&layout=compact)](https://github.com/archanme1/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archanme1&layout=compact)](https://github.com/archanme1/github-readme-stats) -->
 
-- 🔭 I’m currently working on REACT JS 
-- 🌱 I’m currently learning REACT NATIVE 
+- 🔭 I’m currently working on MERN STACK, Next JS & React Native
 - 🤔 I’m looking for help with INTERN/JOBS
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Be confident in Full Stack and Learn more about web3 
