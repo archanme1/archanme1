@@ -6,9 +6,8 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archanme1&layout=compact)](https://github.com/archanme1/github-readme-stats) -->
 
 - 🔭 I’m currently working on MERN STACK, Next JS & React Native
-- 🤔 I’m looking for help with INTERN/JOBS
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Be confident in Full Stack and Learn more about web3 
+- 🥅 2024 Goals: Be confident in Full Stack and Learn more about web3 
 - ⚡ Fun fact: LOVE PLAYING OUTDOOR SPORTS 
 
 <!-- ![Archan's github stats](https://github-readme-stats.vercel.app/api?username=archanme1&show_icons=true&theme=radical)
